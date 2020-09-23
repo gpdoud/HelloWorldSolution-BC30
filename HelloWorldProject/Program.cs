@@ -10,11 +10,8 @@ namespace HelloWorldProject {
         static void Main(string[] args) {
             // print to console
             Console.WriteLine("Hello World!");
-            var name = "Elena";
-            Console.WriteLine($"Hello to {name}");
-
-            var sql = "c:\\repos\\my-sql-scrips\\SalesDb-Script.sql";
-            var sqlv = @"c:\repos\my-sql-scrips\SalesDb-Script.sql";
+            Console.WriteLine("Gregory Doud");
+            Console.WriteLine("I can't choose between Git & SQL!!!");
         }
     }
 }
